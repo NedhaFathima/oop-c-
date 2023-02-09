@@ -44,14 +44,3 @@ int main ()
 }
 	
 		
-multi.cpp
-Displaying multi.cpp.
-Lab Cycle - Set 3
-Binu A.
-•
-Dec 15, 2022
-100 points
-
-Set 3.pdf
-PDF
-Class comments
